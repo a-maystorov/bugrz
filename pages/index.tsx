@@ -3,7 +3,7 @@ import type { NextPage } from 'next';
 const Home: NextPage = () => {
   return (
     <div>
-      <h1 className="text-purple-500 font-mono text-9xl">Hello!</h1>
+      <h1 className="">This app is gonna rock!</h1>
     </div>
   );
 };
